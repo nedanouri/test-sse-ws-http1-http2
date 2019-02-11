@@ -1,0 +1,11 @@
+{
+  "name": "test-sse-ws-in-http1-and-http2",
+  "version": "1.1.0",
+  "description": "This project aims to test Server Sent Events and WebSocket over http/1.1 and http/2.",
+  "author": "Neda Nouri",
+  "license": "ISC",
+  "dependencies": {
+    "mime-types": "^2.1.21",
+    "ws": "^6.1.2"
+  }
+}
